@@ -66,4 +66,4 @@ Program ini dibuat untuk mengurutkan daftar mata kuliah mahasiswa, langkah perta
 
 E. Link Youtube
 
-https://youtu.be/c-YFqhkQIp8?si=l2CCWKwwZ5OnGh_O
+https://youtu.be/E_30LCH2-Mw?si=Kb7qd24_tLsmMntw
