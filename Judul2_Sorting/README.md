@@ -1,13 +1,18 @@
 A. Judul Program
+
 “Program Pengurutan Daftar Mata Kuliah Mahasiswa Teknik Informatika”
 
 B. Deskripsi Program
+
 Program ini dibuat untuk mengurutkan Daftar Mata Kuliah Mahasiswa Teknik Informatika dengan menggunakan salah satu jenis sorting yaitu Exchange Sort dimana pada jenis pengurutan ini kita mengambil satu elemen pada array lalu menjadikannya acuan untuk membandingkan dengan seluruh elemen lain pada array. Program ini menggunakan tipe data string, untuk pengurutan dengan tipe data string proses pengurutan dilakukan dengan melihat huruf elemen pertama pada data tersebut lalu menyesuaikan dengan urutan alfabet, jika pada elemen pertama terdapat huruf yang sama maka bisa melihat elemen kedua dan seterusnya hingga data berurutan.
 
 C. Source Code 
+
 <img width="1382" height="835" alt="Screenshot 2026-05-01 215912" src="https://github.com/user-attachments/assets/fa3d0bf3-1abc-4362-9e6e-4436d98fb248" />
 <img width="1362" height="516" alt="Screenshot 2026-05-01 215937" src="https://github.com/user-attachments/assets/41e62ddd-e425-4bea-967b-d6dd48fcc415" />
+
 Penjelasan Code Perbaris:
+
 1. Fungsi untuk menukar elemen i dan j dalam array
 2. Fungsi untuk menyimpan nilai i pada variabel sementara
 3. Fungsi untuk mengganti nilai i dengan nilai j
@@ -53,9 +58,12 @@ Penjelasan Code Perbaris:
 43. Memanggil variabel main
 
 D. Output Program
+
 <img width="1364" height="484" alt="Screenshot 2026-05-01 215852" src="https://github.com/user-attachments/assets/ee43d92c-4e0a-41df-8bb0-a1584ccff73e" />
 Penjelasan Output:
+
 Program ini dibuat untuk mengurutkan daftar mata kuliah mahasiswa, langkah pertama user akan diminta untuk menginputkan jumlah mata kuliah, pada gambar diatas nilai yang diinputkan yaitu 5, artinya ada 5 daftar mata kuliah yang diinputkan diantaranya adalah Kalkulus, Struktur Data, Rekayasa Perangkat Lunak, Aljabar Matriks dan Teknik Digital. Output memperlihatkan daftar mata kuliah sebelum diurutkan dengan tampilan acak seperti apa yang diinputkan sebelumnya, kemudian program ini menghasilkan output daftar mata kuliah yang sudah diurutkan yaitu Aljabar Matriks, Kalkulus, Rekayasa Perangkat Lunak, Struktur Data, Teknik Digital.
 
 E. Link Youtube
+
 https://youtu.be/c-YFqhkQIp8?si=l2CCWKwwZ5OnGh_O
