@@ -2,7 +2,7 @@ A. Judul Program
 “Program Mencari Nama Siswa Pada Daftar Absensi”
  
 B. Deskripsi Program
-Program ini dibuat untuk mencari nama salah satu siswa pada daftar absensi dengan menggunakan salah satu jenis searching yaitu sequential searching. Pada jenis pencarian ini, memiliki beberapa daftar nama kemudian kita akan menginputkan satu nama sebagai kunci atau patokan, kemudian mengecek satu persatu mulai dari index ke-0 sampai nama yang dijadikan kunci tersebut ditemukan. Pada program ini juga terdapat fungsi yang menanyakan user apakah ingin mencari nama lagi atau tidak, jika user menginput “iya” maka user akan diminta kembali menginputkan nama siswa, namun jika user menginputkan “tidak” maka program akan berhenti.
+Program ini dibuat untuk mencari nama siswa pada daftar absensi dengan menggunakan salah satu jenis searching yaitu sequential searching. Pada jenis pencarian ini, memiliki beberapa daftar nama kemudian kita akan menginputkan satu nama sebagai kunci atau patokan, kemudian mengecek satu persatu mulai dari index ke-0 sampai nama yang dijadikan kunci tersebut ditemukan. Pada program ini juga terdapat fungsi yang menanyakan user apakah ingin mencari nama lagi atau tidak, jika user menginput “iya” maka user akan diminta kembali menginputkan nama siswa, namun jika user menginputkan “tidak” maka program akan berhenti.
 
 C. Source Code
 <img width="728" height="427" alt="Screenshot 2026-05-09 214514" src="https://github.com/user-attachments/assets/e0a92f37-e0c1-4300-b17e-7c8fcc8186d1" />
