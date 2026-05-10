@@ -60,4 +60,5 @@ E. Link Youtube
 https://youtu.be/auhwBdfuXcI?si=Bj_DMFilYHdQcwIS
 
 F. Tugas penerapan rumus pada binary interpolation
+<img width="859" height="1280" alt="interpolation" src="https://github.com/user-attachments/assets/b753b254-e53c-4e72-b170-43d91ffffa6d" />
 
