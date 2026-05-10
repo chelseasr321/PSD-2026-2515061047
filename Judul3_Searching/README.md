@@ -57,6 +57,7 @@ Penjelasan Output:
 Terdapat daftar nama siswa yaitu: "Adelia", "Davina", "Naila", "Arcel", "Atthariqia", "Chelsea", "Alin", "Oliv", "Riva", "Dzakya". Langkah pertama user diminta untuk menginputkan key atau nama yang akan dicari, kemudian dibandingkan satu persatu dengan daftar nama siswa yang ada. User menginput nama chelsea, setelah dilakukan pencarian satu persatu hingga nama chelsea ditemukan, output yang ditampilkan adalah “Siswa bernama Chelsea ditemukan sebanyak 1 kali” kemudian terdapat output yang bertanya kepada user, apakah ingin mencari nama yang baru atau tidak, pada output diatas user menginputkan kata iya kemudian user menginputkan nama davina dan muncul output baru yaitu “Siswa bernama Davina ditemukan sebanyak 1 kali”, kemudian user diminta untuk menginputkan kembali kata iya atau tidak pada bagian “Ingin mencari nama baru lagi”, user menginputkan kata tidak, jika user menginputkan kata “tidak” maka program selesai.
 
 E. Link Youtube
+https://youtu.be/auhwBdfuXcI?si=Bj_DMFilYHdQcwIS
 
 F. Tugas penerapan rumus pada binary interpolation
 
