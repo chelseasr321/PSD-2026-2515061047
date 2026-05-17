@@ -48,7 +48,7 @@ def main():
     while pilih != 5:
         print("\nImplementasi Stack Array pada Riwayat Browser")
         print("1. Masuk ke halaman")
-        print("2. Hapus halaman")
+        print("2. Hapus halaman terakhir")
         print("3. Tampilkan halaman pertama")
         print("4. Tampilkan halaman")
         print("5. Keluar dari browser")
