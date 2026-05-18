@@ -17,7 +17,7 @@ Penjelasan Code Perbaris:
 5. Fungsi untuk menentukan posisi awal top stack, menggunakan -1 karena index array pada python di mulai dari 0
 6. -
 7. Fungsi untuk mengecek apakah stack kosong
-8. Mengembalikan nilai true jika top_idx stack sama dengan 1 yang berarti stack kosong
+8. Mengembalikan nilai true jika top_idx stack sama dengan -1 yang berarti stack kosong
 9. -
 10. Fungsi untuk mengecek apakah stack penuh
 11. Mengembalikan nilai true jika stack mencapai batas index akhir
