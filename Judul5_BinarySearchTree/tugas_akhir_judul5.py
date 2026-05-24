@@ -135,14 +135,14 @@ def main():
             try:
                 x = int(input("Masukkan nomor antrean: "))
                 bst.insert(x)
-                print(f"Nomor antrean{x} berhasil dimasukkan")
+                print(f"Nomor antrean {x} berhasil dimasukkan")
             except ValueError:
                 print("Input tidak valid!")
         elif pilih == 2:
             try:
                 x = int(input("Masukkan nomor antrean yang telah selesai: "))
                 bst.delete(x)
-                print(f"Nomor antrean{x} berhasil dihapus")
+                print(f"Nomor antrean {x} berhasil dihapus")
             except ValueError:
                 print("Input tidak valid!")
         elif pilih == 3:
