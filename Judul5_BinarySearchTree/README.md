@@ -31,7 +31,7 @@ Penjelasan Perbaris
 16. Jika lebih kecil maka data dimasukkan ke subpohon kiri 
 17. Fungsi untuk mengecek apakah nilai key lebih besar dari root 
 18. Jika lebih besar maka data dimasukkan ke subpohon kanan
-19.  Fungsi untuk mengembalikan root setelah proses insert sel 
+19.  Fungsi untuk mengembalikan root setelah proses insert selesai
 20. -
 21. Fungsi untuk memanggil proses insert 
 22. Variabel root BST diisi dengan hasil penambahan node baru dari fungsi insert_node
@@ -203,5 +203,6 @@ D. Output Program
 <img width="1655" height="598" alt="Screenshot 2026-05-23 223622" src="https://github.com/user-attachments/assets/910363fc-0a7b-4b64-86d9-a51df6590e5a" />
 Penjelasan Output:
 Program diawali dengan menampilkan judul “=== SISTEM ANTREAN KASIR ===”. Setelah itu, program menampilkan tujuh pilihan menu kepada pengguna, yaitu: 1. Tambah Nomor Antrean, 2. Hapus Nomor Antrean, 3. Tampilkan Antrean, 4. Tinggi Antrean, 5. Pelanggan Berikutnya, 6. Pelanggan Sebelumnya, dan 7. Keluar. Kemudian, pengguna memilih menu 1 beberapa kali untuk menambahkan nomor antrean ke dalam sistem. Pertama, pengguna memasukkan nomor antrean 5 dan program menampilkan pesan bahwa nomor antrean 5 berhasil dimasukkan. Proses yang sama dilakukan kembali untuk nomor antrean 10, 15, 8, 20, 25 dan 3. Kemudian, pengguna memilih menu 3 untuk menampilkan seluruh daftar antrean yang ada. Program menampilkan nomor antrean secara berurutan, yaitu 5, 3, 10, 8, 15,  20,  25. Setelah melihat daftar antrean, pengguna memilih menu 2 untuk menghapus nomor antrean yang telah selesai dilayani. Pengguna memasukkan nomor antrean 3 dan program memberikan pesan bahwa nomor antrean 3 berhasil dihapus dari daftar antrean. Lalu pengguna memilih menu 4 untuk melihat tinggi atau jumlah antrean yang masih tersisa. Program menampilkan informasi “Tinggi antrean: 4”. Selanjutnya, pengguna memilih menu 5 sebanyak dua kali untuk mencari pelanggan berikutnya. Pertama, pengguna memasukkan nomor 5 dan program menampilkan bahwa pelanggan berikutnya adalah nomor 8. Kemudian pengguna kembali mencari pelanggan berikutnya dari nomor 8 dan program menampilkan nomor 10 sebagai pelanggan selanjutnya. Terakhir, pengguna memilih menu 7 untuk keluar dari program. Program kemudian menampilkan pesan “Program selesai.”
-E. Link Youtube
 
+E. Link Youtube
+https://youtu.be/XlTqpu0CNYE
