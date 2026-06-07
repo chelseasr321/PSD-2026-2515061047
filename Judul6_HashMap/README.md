@@ -101,3 +101,4 @@ Program diawali dengan menampilkan isi Hash Table yang berisi data mahasiswa And
 Selanjutnya program melakukan pencarian data mahasiswa dengan NIM 2217051011 dan berhasil menemukan data atas nama Budi, yang ditunjukkan oleh output "Mahasiswa Ditemukan = Budi". Setelah itu, program menghapus data Budi menggunakan fungsi remove_key(). Hasil tampilan akhir menunjukkan bahwa data Budi sudah berhasil dihapus dari kotak penyimpanan 1, sedangkan data mahasiswa lainnya tetap tersimpan dan tidak mengalami perubahan. Hal ini menunjukkan bahwa proses penyimpanan, pencarian, dan penghapusan data pada Hash Map telah berjalan dengan baik.
 
 E. Link Youtube
+https://youtu.be/6j0Nr9IlJYQ
